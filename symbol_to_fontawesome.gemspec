@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "more symple fontawesoming"
   spec.description   = "more symple fontawesoming"
-  spec.homepage      = "http://mmmpa.net"
+  spec.homepage      = "https://github.com/mmmpa/symbol_to_fontawesome"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
